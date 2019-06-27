@@ -1,0 +1,29 @@
+                         PasswordFinder Version 1.1.2.3720 - Licence File
+
+                    (C) Copyright 2002-2019 IDCat Informatique.
+
+    Contents:
+
+    1. Warranty Disclaimer
+    2. Introduction
+    3. Installing and Uninstalling
+
+    1. Warranty Disclaimer
+    ----------------------
+    THE SOFTWARE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+	IDCat Informatique FURTHER DISCLAIMS ALL WARRANTIES, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF
+	MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+	THE ENTIRE RISK ARISING OUT OF THE USE OR PERFORMANCE OF THE PRODUCT AND DOCUMENTATION REMAINS WITH RECIPIENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW,
+	IN NO EVENT SHALL IDCat Informatique BE LIABLE FOR ANY CONSEQUENTIAL, INCIDENTAL, DIRECT, INDIRECT, SPECIAL, PUNITIVE, OR OTHER DAMAGES WHATSOEVER
+	(INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR OTHER PECUNIARY LOSS) ARISING
+	OUT OF THE LICENSE AGREEMENT OR THE USE OF OR INABILITY TO USE THE PRODUCT, EVEN IF IDCat Informatique HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+    2. Introduction
+    ---------------
+    PasswordFinder is an easy-to-use utility that allows to find the text corresponding to a hash.
+
+    3. Installing and Uninstalling
+    ------------------------------
+    To install PasswordFinder, run Setup.exe from the distribution.
+    To uninstall PasswordFinder, run "Add or Remove Programs" from Control Panel, or run Uninstall from Start\All Programs\PasswordFinder.
+
